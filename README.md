@@ -1,4 +1,4 @@
-## #8weeksSQLchallenge
+## #8weekSQLchallenge
 
 The [8 Week SQL Challenge](https://8weeksqlchallenge.com/) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/) is a fun, yet challenging series of challenges with one case study per week for 8 weeks. 
 
